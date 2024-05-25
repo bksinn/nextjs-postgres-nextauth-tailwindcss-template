@@ -29,7 +29,7 @@ export default function RootLayout({
                   href="/"
                 >
                   <Logo />
-                  <span className="">ACME</span>
+                  <span className="">Ambient Labs</span>
                 </Link>
               </div>
               <div className="flex-1 overflow-auto py-2">
